@@ -1,11 +1,11 @@
 ![Furniture App Demo](git_resources/furniture_demo.gif)
 
-
 # Setup
 Run,
+
     $  flutter pub get
     $  flutter run -d all     
-    
+
 
 # Furniture App
 
