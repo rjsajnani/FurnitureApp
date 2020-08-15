@@ -1,16 +1,17 @@
-# FurnitureApp
+![Furniture App Demo](git_resources/furniture_demo.gif)
 
-A new Flutter project.
 
-## Getting Started
+# Setup
+Run,
+    $  flutter pub get
+    $  flutter run -d all     
+    
 
-This project is a starting point for a Flutter application.
+# Furniture App
 
-A few resources to get you started if this is your first Flutter project:
+- Added Product listing
+- Redirection to details page  
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![Home Screen ](git_resources/home_page.png "Home Screen")
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Details Screen ](git_resources/details_page.png "Details Screen")
